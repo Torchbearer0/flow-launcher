@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#FF6C5CE7</color>
+    <color name="primary_dark">#FF5A4BD4</color>
+    <color name="primary_light">#FF8B7FF0</color>
+
+    <!-- Accent Colors -->
+    <color name="accent">#FF00CEC9</color>
+    <color name="accent_dark">#FFB2BEC3</color>
+    <color name="accent_light">#FF81ECEC</color>
+
+    <!-- Background -->
+    <color name="background">#FF1A1A2E</color>
+    <color name="background_light">#FF2D2D44</color>
+    <color name="surface">#FFFFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_hint">#80FFFFFF</color>
+
+    <!-- Tile Background -->
+    <color name="tile_background">#1AFFFFFF</color>
+    <color name="tile_background_pressed">#33FFFFFF</color>
+
+    <!-- Search Bar -->
+    <color name="search_background">#1AFFFFFF</color>
+    <color name="search_text">#FFFFFFFF</color>
+    <color name="search_hint">#80FFFFFF</color>
+
+    <!-- At A Glance -->
+    <color name="glance_background">#1A000000</color>
+    <color name="glance_text">#FFFFFFFF</color>
+    <color name="glance_secondary">#B3FFFFFF</color>
+
+    <!-- Settings -->
+    <color name="settings_background">#FFF5F5F5</color>
+    <color name="settings_card">#FFFFFFFF</color>
+    <color name="settings_title">#FF2D3436</color>
+    <color name="settings_subtitle">#FF636E72</color>
+
+    <!-- Widgets -->
+    <color name="widget_background">#FFFFFFFF</color>
+    <color name="widget_text">#FF2D3436</color>
+    <color name="widget_secondary">#FF636E72</color>
+
+    <!-- Divider -->
+    <color name="divider">#1AFFFFFF</color>
+    <color name="divider_light">#1F000000</color>
+
+    <!-- Icon Colors -->
+    <color name="icon_tint">#FFFFFFFF</color>
+
+    <!-- FAB -->
+    <color name="fab_background">#FF6C5CE7</color>
+    <color name="fab_icon">#FFFFFFFF</color>
+
+    <!-- Notification Dot -->
+    <color name="notification_dot">#FFE74C3C</color>
+</resources>

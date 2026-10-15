@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+
+    <!-- Tile -->
+    <dimen name="tile_height">52dp</dimen>
+    <dimen name="tile_icon_size">28dp</dimen>
+    <dimen name="tile_padding_horizontal">20dp</dimen>
+    <dimen name="tile_padding_vertical">6dp</dimen>
+    <dimen name="tile_margin_horizontal">16dp</dimen>
+    <dimen name="tile_margin_vertical">2dp</dimen>
+
+    <!-- Search Bar -->
+    <dimen name="search_height">48dp</dimen>
+    <dimen name="search_padding">16dp</dimen>
+    <dimen name="search_icon_size">24dp</dimen>
+    <dimen name="search_margin">16dp</dimen>
+
+    <!-- At A Glance -->
+    <dimen name="glance_padding">20dp</dimen>
+    <dimen name="glance_time_size">48sp</dimen>
+    <dimen name="glance_date_size">14sp</dimen>
+
+    <!-- Widget -->
+    <dimen name="widget_padding">8dp</dimen>
+    <dimen name="widget_corner_radius">16dp</dimen>
+
+    <!-- Settings -->
+    <dimen name="settings_padding">16dp</dimen>
+    <dimen name="settings_card_radius">12dp</dimen>
+    <dimen name="settings_card_elevation">2dp</dimen>
+
+    <!-- Icon sizes -->
+    <dimen name="icon_sm">24dp</dimen>
+    <dimen name="icon_md">32dp</dimen>
+    <dimen name="icon_lg">48dp</dimen>
+    <dimen name="icon_xl">64dp</dimen>
+</resources>

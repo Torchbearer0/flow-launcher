@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Launcher</string>
+
+    <!-- Home Screen -->
+    <string name="search_hint">Search apps, contacts, web…</string>
+    <string name="at_a_glance">At a Glance</string>
+    <string name="no_results">No results found</string>
+    <string name="notification_dots">Notification dots</string>
+
+    <!-- App Actions -->
+    <string name="app_info">App info</string>
+    <string name="uninstall">Uninstall</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="icons">Icons</string>
+    <string name="icon_pack">Icon pack</string>
+    <string name="behavior">Behavior</string>
+    <string name="gestures">Gestures</string>
+    <string name="gesture_double_tap">Double tap</string>
+    <string name="gesture_swipe_up">Swipe up</string>
+    <string name="gesture_swipe_down">Swipe down</string>
+    <string name="gesture_two_finger">Two-finger gesture</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="notifications">Notifications</string>
+    <string name="notification_listener">Notification access</string>
+    <string name="notification_listener_desc">Enable to show notification badges</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="lock_screen_service">Lock screen service</string>
+    <string name="lock_screen_service_desc">Enable to use double-tap to lock screen</string>
+
+    <!-- Widget Picker -->
+    <string name="widget_picker_title">Choose widget</string>
+    <string name="no_widgets">No widgets available</string>
+
+    <!-- Theme Picker -->
+    <string name="theme_picker_title">Choose theme</string>
+
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="done">Done</string>
+    <string name="apply">Apply</string>
+    <string name="reset">Reset</string>
+
+    <!-- Gesture Actions -->
+    <string name="action_none">None</string>
+    <string name="action_launch_app">Launch app</string>
+    <string name="action_open_notifications">Open notifications</string>
+    <string name="action_toggle_flashlight">Toggle flashlight</string>
+    <string name="action_lock_screen">Lock screen</string>
+    <string name="action_open_settings">Open settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_recent_apps">Recent apps</string>
+</resources>
