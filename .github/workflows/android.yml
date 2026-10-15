@@ -50,6 +50,7 @@ jobs:
         echo "distributionUrl=https\\://services.gradle.org/distributions/gradle-8.2-bin.zip" >> gradle/wrapper/gradle-wrapper.properties
         echo "zipStoreBase=GRADLE_USER_HOME" >> gradle/wrapper/gradle-wrapper.properties
         echo "zipStorePath=wrapper/dists" >> gradle/wrapper/gradle-wrapper.properties
+        unset JAVA_HOME
         chmod +x gradlew
         export ANDROID_HOME=$HOME/android-sdk
         ./gradlew assembleDebug --no-daemon --stacktrace
